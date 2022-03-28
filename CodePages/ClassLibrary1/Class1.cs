@@ -13,7 +13,7 @@
         /// <returns></returns>
         public byte[] GetBytes(string data, int codePage)
         {
-#if NET5_0_OR_GREATER
+#if NET || NETCOREAPP
             //dotnet add package System.Text.Encoding.CodePages
             return System.Text.CodePagesEncodingProvider.Instance.GetEncoding(codePage).GetBytes(data);
 #else
@@ -29,7 +29,7 @@
         /// <returns></returns>
         public string GetString(byte[] rawData, int codePage)
         {
-#if NET5_0_OR_GREATER
+#if NET || NETCOREAPP
             //dotnet add package System.Text.Encoding.CodePages
             return System.Text.CodePagesEncodingProvider.Instance.GetEncoding(codePage).GetString(rawData);
 #else
