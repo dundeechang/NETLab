@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TARoot>
+    <SBBINVOIS>
+        <SBBINVOI mark="TAIEX" symb="2338" stna="光罩" ivsh="7000" ivtr="0" ivls="2" ivif="20" ivsm="" info="0" ortp="0" cltp="2" sktp="0" curr="TWD" txun="1000" ivsp="" ivtg="" ivag="" comp="801" cosy="8881" sett="532553" cuna="林韋汝" culi="6295903" comm="A2830" date="111/01/25" ivsa="888" sana="數位業務員" ivpr="101" ivmd="111/01/25" lino="0" inse="801A283000" ivor="0" ivcl="30508" clna="" ivst="50" ivse="" ivmx="" ivnx="" ivtx="" ivwx="" ivvx="" ivxx="" memo="D-1" logs="2022/01/25 19:02:29(0)" idno="S224414344" bkma="0130523" bkno="699507898398" bktp="1" bkcl="2" sfma="" mgno="" logr="" shgr="" orgp="" ivgp="" prox="" sect="0" syif="0" refe="91.7" clpr="89.8" cons="0">
+            <SBBEXPENS perm="--smawrb">
+                <SBBEXPEN exdt="111/01/25" exno="0" curr="TWD" exba="" exor="707000" expr="707000" exif="" itno="" exmm="" />
+                <SBBEXPEN exdt="111/01/25" exno="10" curr="TWD" exba="" exor="1007" expr="282" exif="" itno="" exmm="" />
+                <SBBEXPEN exdt="111/01/25" exno="20" curr="TWD" exba="" exor="1060" expr="1060" exif="" itno="" exmm="" />
+                <SBBEXPEN exdt="111/01/25" exno="400" curr="TWD" exba="" exor="705658" expr="0" exif="" itno="" exmm="" />
+                <SBBEXPEN exdt="111/01/25" exno="411" curr="TWD" exba="" exor="4080" expr="4080" exif="" itno="" exmm="" />
+                <SBBEXPEN exdt="111/01/25" exno="420" curr="TWD" exba="" exor="-705658" expr="-705658" exif="" itno="" exmm="" />
+            </SBBEXPENS>
+            <SBBOFINVS perm="----awrb">
+                <SBBOFINV ofse="1" ofod="111/01/25" ofos="801A283000" ofsh="3000" ofif="20" ofmm="801A224500" ofcm="A2245" ofpr="100.5" ofsa="888" oftg="" ofag="">
+                    <SBBOFEXPS perm="----awrb">
+                        <SBBOFEXP oedt="111/01/25" oeno="400" oeio="0" curr="TWD" oeam="302424" oeoi="" oein="" oese="1" oeif="" oemm="801A224500" />
+                        <SBBOFEXP oedt="111/01/25" oeno="411" oeio="0" curr="TWD" oeam="804" oeoi="" oein="" oese="1" oeif="20" oemm="801A224500" />
+                    </SBBOFEXPS>
+                </SBBOFINV>
+                <SBBOFINV ofse="2" ofod="111/01/25" ofos="801A283000" ofsh="2000" ofif="20" ofmm="801A257300" ofcm="A2573" ofpr="99.9" ofsa="888" oftg="" ofag="">
+                    <SBBOFEXPS perm="----awrb">
+                        <SBBOFEXP oedt="111/01/25" oeno="400" oeio="0" curr="TWD" oeam="201617" oeoi="" oein="" oese="2" oeif="" oemm="801A257300" />
+                        <SBBOFEXP oedt="111/01/25" oeno="411" oeio="0" curr="TWD" oeam="1738" oeoi="" oein="" oese="2" oeif="20" oemm="801A257300" />
+                    </SBBOFEXPS>
+                </SBBOFINV>
+                <SBBOFINV ofse="3" ofod="111/01/25" ofos="801A283000" ofsh="2000" ofif="20" ofmm="801A254300" ofcm="A2543" ofpr="100" ofsa="888" oftg="" ofag="">
+                    <SBBOFEXPS perm="----awrb">
+                        <SBBOFEXP oedt="111/01/25" oeno="400" oeio="0" curr="TWD" oeam="201617" oeoi="" oein="" oese="3" oeif="" oemm="801A254300" />
+                        <SBBOFEXP oedt="111/01/25" oeno="411" oeio="0" curr="TWD" oeam="1538" oeoi="" oein="" oese="3" oeif="20" oemm="801A254300" />
+                    </SBBOFEXPS>
+                </SBBOFINV>
+            </SBBOFINVS>
+        </SBBINVOI>
+        <SBBINVOI mark="TAIEX" symb="2338" stna="光罩" ivsh="7000" ivtr="0" ivls="2" ivif="20" ivsm="" info="0" ortp="0" cltp="2" sktp="0" curr="TWD" txun="1000" ivsp="" ivtg="" ivag="" comp="801" cosy="8881" sett="532553" cuna="林韋汝" culi="6295903" comm="A2831" date="111/01/25" ivsa="888" sana="數位業務員" ivpr="101" ivmd="111/01/25" lino="0" inse="801A283000" ivor="0" ivcl="30508" clna="" ivst="50" ivse="" ivmx="" ivnx="" ivtx="" ivwx="" ivvx="" ivxx="" memo="D-1" logs="2022/01/25 19:02:29(0)" idno="S224414344" bkma="0130523" bkno="699507898398" bktp="1" bkcl="2" sfma="" mgno="" logr="" shgr="" orgp="" ivgp="" prox="" sect="0" syif="0" refe="91.7" clpr="89.8" cons="0">
+            <SBBEXPENS perm="--smawrb">
+                <SBBEXPEN exdt="111/01/25" exno="0" curr="TWD" exba="" exor="707000" expr="707000" exif="" itno="" exmm="" />
+                <SBBEXPEN exdt="111/01/25" exno="10" curr="TWD" exba="" exor="1007" expr="282" exif="" itno="" exmm="" />
+                <SBBEXPEN exdt="111/01/25" exno="20" curr="TWD" exba="" exor="1060" expr="1060" exif="" itno="" exmm="" />
+                <SBBEXPEN exdt="111/01/25" exno="400" curr="TWD" exba="" exor="705658" expr="0" exif="" itno="" exmm="" />
+                <SBBEXPEN exdt="111/01/25" exno="411" curr="TWD" exba="" exor="4080" expr="4080" exif="" itno="" exmm="" />
+                <SBBEXPEN exdt="111/01/25" exno="420" curr="TWD" exba="" exor="-705658" expr="-705658" exif="" itno="" exmm="" />
+            </SBBEXPENS>
+            <SBBOFINVS perm="----awrb">
+                <SBBOFINV ofse="1" ofod="111/01/25" ofos="801A283000" ofsh="3000" ofif="20" ofmm="801A224500" ofcm="A2245" ofpr="100.5" ofsa="888" oftg="" ofag="">
+                    <SBBOFEXPS perm="----awrb">
+                        <SBBOFEXP oedt="111/01/25" oeno="400" oeio="0" curr="TWD" oeam="302424" oeoi="" oein="" oese="1" oeif="" oemm="801A224500" />
+                        <SBBOFEXP oedt="111/01/25" oeno="411" oeio="0" curr="TWD" oeam="804" oeoi="" oein="" oese="1" oeif="20" oemm="801A224500" />
+                    </SBBOFEXPS>
+                </SBBOFINV>
+                <SBBOFINV ofse="2" ofod="111/01/25" ofos="801A283000" ofsh="2000" ofif="20" ofmm="801A257300" ofcm="A2573" ofpr="99.9" ofsa="888" oftg="" ofag="">
+                    <SBBOFEXPS perm="----awrb">
+                        <SBBOFEXP oedt="111/01/25" oeno="400" oeio="0" curr="TWD" oeam="201617" oeoi="" oein="" oese="2" oeif="" oemm="801A257300" />
+                        <SBBOFEXP oedt="111/01/25" oeno="411" oeio="0" curr="TWD" oeam="1738" oeoi="" oein="" oese="2" oeif="20" oemm="801A257300" />
+                    </SBBOFEXPS>
+                </SBBOFINV>
+                <SBBOFINV ofse="3" ofod="111/01/25" ofos="801A283000" ofsh="2000" ofif="20" ofmm="801A254300" ofcm="A2543" ofpr="100" ofsa="888" oftg="" ofag="">
+                    <SBBOFEXPS perm="----awrb">
+                        <SBBOFEXP oedt="111/01/25" oeno="400" oeio="0" curr="TWD" oeam="201617" oeoi="" oein="" oese="3" oeif="" oemm="801A254300" />
+                        <SBBOFEXP oedt="111/01/25" oeno="411" oeio="0" curr="TWD" oeam="1538" oeoi="" oein="" oese="3" oeif="20" oemm="801A254300" />
+                    </SBBOFEXPS>
+                </SBBOFINV>
+            </SBBOFINVS>
+        </SBBINVOI>
+    </SBBINVOIS>
+</TARoot>
